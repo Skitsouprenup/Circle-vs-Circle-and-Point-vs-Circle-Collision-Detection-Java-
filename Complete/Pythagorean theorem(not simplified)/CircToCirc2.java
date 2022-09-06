@@ -39,7 +39,7 @@ public class CircToCirc2 {
 			
 			@Override
 			public void run() {
-				JFrame jf = new JFrame("CircToCirc2");
+				JFrame jf = new JFrame("Circle-To-Circle");
 				Panel pnl = new Panel();
 				pnl.addMouseMotionListener(new MouseMotion());
 				jf.add(pnl);
